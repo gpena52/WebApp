@@ -95,3 +95,4 @@ D:\Users\gabri\source\repos\TareaClase\WebApp_APPA00114138\WebApp_APPA00114138\o
 D:\Users\gabri\source\repos\TareaClase\WebApp_APPA00114138\WebApp_APPA00114138\obj\Debug\net9.0\WebApp_APPA00114138.pdb
 D:\Users\gabri\source\repos\TareaClase\WebApp_APPA00114138\WebApp_APPA00114138\obj\Debug\net9.0\WebApp_APPA00114138.genruntimeconfig.cache
 D:\Users\gabri\source\repos\TareaClase\WebApp_APPA00114138\WebApp_APPA00114138\obj\Debug\net9.0\ref\WebApp_APPA00114138.dll
+D:\Users\gabri\source\repos\TareaClase\WebApp_APPA00114138\WebApp_APPA00114138\obj\Debug\net9.0\WebApp_APPA00114138.sourcelink.json
